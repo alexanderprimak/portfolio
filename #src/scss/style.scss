@@ -1,7 +1,6 @@
 @import 'bace/_variables';
 @import 'fonts/_fonts';
-@import '_slick';
-
+@import 'libs/_normalize';
 * {
 	box-sizing: border-box;
 	color: $main_color;
@@ -13,17 +12,17 @@
 	margin: 0px auto;
 }
 
-@import 'blocks/_button';
-@import 'blocks/_header';
-@import 'blocks/_promo';
-@import 'blocks/_advantage';
-@import 'blocks/_consultation';
-@import 'blocks/_feed-forms';
-@import 'blocks/_titles';
-@import 'blocks/_carousel';
-@import 'blocks/_catalog';
-@import 'blocks/_reviews';
-@import 'blocks/_footer';
-@import 'blocks/_modals';
-@import 'blocks/_pageUp';
-@import 'bace/_animate';
+// @import 'blocks/_button';
+// @import 'blocks/_header';
+// @import 'blocks/_promo';
+// @import 'blocks/_advantage';
+// @import 'blocks/_consultation';
+// @import 'blocks/_feed-forms';
+// @import 'blocks/_titles';
+// @import 'blocks/_carousel';
+// @import 'blocks/_catalog';
+// @import 'blocks/_reviews';
+// @import 'blocks/_footer';
+// @import 'blocks/_modals';
+// @import 'blocks/_pageUp';
+// @import 'bace/_animate';
